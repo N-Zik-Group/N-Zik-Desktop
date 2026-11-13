@@ -101,6 +101,8 @@ See [LICENSE](./LICENSE) for the complete GPL-3.0 terms.
 
 ## 👥 Contributors
 
+[![Refresh contributor grid](https://github.com/N-Zik-Group/N-Zik-Desktop/actions/workflows/readme-contributors.yml/badge.svg)](https://github.com/N-Zik-Group/N-Zik-Desktop/actions/workflows/readme-contributors.yml)
+
 <!-- project-contributors:start -->
 <p align="center">
 <a href="https://github.com/cybruGhost"><img src="https://avatars.githubusercontent.com/u/113809799?v=4" width="54" height="54" alt="cybruGhost" title="cybruGhost" /></a>
