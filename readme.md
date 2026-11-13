@@ -98,3 +98,12 @@ Cubic Music builds on open-source libraries and community projects. Their own li
 Copyright © 2026 cybruGhost and contributors.
 
 See [LICENSE](./LICENSE) for the complete GPL-3.0 terms.
+
+## 👥 Contributors
+
+<!-- project-contributors:start -->
+<p align="center">
+<a href="https://github.com/cybruGhost"><img src="https://avatars.githubusercontent.com/u/113809799?v=4" width="54" height="54" alt="cybruGhost" title="cybruGhost" /></a>
+<a href="https://github.com/NEVARLeVrai"><img src="https://avatars.githubusercontent.com/u/63956787?v=4" width="54" height="54" alt="NEVARLeVrai" title="NEVARLeVrai" /></a>
+</p>
+<!-- project-contributors:end -->
